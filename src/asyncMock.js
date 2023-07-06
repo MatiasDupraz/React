@@ -31,7 +31,11 @@ const products = [
         name: 'Mouse Inalámbrico Logitech M170',
         codigo: 4324497550,
         price: 8500,
+<<<<<<< HEAD
         category: 'Mouse Inalambrico',
+=======
+        category: 'Mouse',
+>>>>>>> 634422ba53aee7599255a2fd446ebde831261409
         stock: 73,
         imgSrc: 'https://www.venex.com.ar/products_images/1635799193_zdfgdsfg.png'
     }
