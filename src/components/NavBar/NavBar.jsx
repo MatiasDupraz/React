@@ -1,12 +1,6 @@
 import CartWidget from '../CartWidget/CartWidget'
 import logo from './assets/img/LOGOFICIAL.png'
-const Button = (props) => {
-    return (
-        <button className="bg-gray-900 hover:bg-slate-600 text-white font-bold py-2 px-4 m-2 rounded">
-            {props.text}
-        </button>
-    )
-}
+import Button from '../Button.jsx'
 const NavBar = () => {
     return (
         <div className="mx-0 bg-gray-800 rounded-b-xl shadow  p-4 ">
